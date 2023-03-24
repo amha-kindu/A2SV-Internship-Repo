@@ -1,1 +1,3 @@
-main();
+main(){
+    return 1;
+}
