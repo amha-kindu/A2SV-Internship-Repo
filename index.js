@@ -1,1 +1,3 @@
-void main(){}
+main(){
+    return 1;
+}
